@@ -39,6 +39,6 @@
             VerticalAlignment="Top" 
             Width="105" 
             Height="23" 
-            Click="Button_Click"/>
+            Click="Button_Click" IsDefault="True"/>
     </Grid>
 </Window>
